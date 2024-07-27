@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Nolan :>
 
-<!--
-**N-Fal/N-Fal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Fal&layout=compact&theme=default)
+![Profile Views](https://komarev.com/ghpvc/?username=N-Fal&color=blue)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐴 Currently working towards a BA in computer science at Santa Clara University
+- 💊 Currently working as a software development intern with [Endiatx](https://endiatx.com/)
+- 🗒️ Interested in fullstack development, embedded programming, CI/CD management, and more!
+
+## Projects
+
+- ⌨️ You can check out my university hackathon submissions on my [Devpost](https://devpost.com/nfallin) page!

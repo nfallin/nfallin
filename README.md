@@ -20,5 +20,5 @@
 - Send me an [Email](mailto:nolanafallin@gmail.com)
 - Reach out to me on [LinkedIn](https://www.linkedin.com/in/nolan-fallin-79b5a6271/)
 
-Thanks for stopping by!<br>
+Thanks for stopping by!<br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=N-Fal&color=blue)

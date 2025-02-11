@@ -8,7 +8,7 @@
 
 ## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Fal&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfallin&layout=compact&theme=default)
 
 ## Projects
 

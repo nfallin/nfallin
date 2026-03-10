@@ -1,24 +1,19 @@
-## Hi, I'm Nolan :>
+## Nolan Fallin
 
 ## About Me
 
-- 🐴 Currently working towards a BA in computer science at Santa Clara University
-- 💊 Software development intern with [Endiatx](https://endiatx.com/)
-- 🗒️ Interested in fullstack development, embedded programming, CI/CD management, and more!
-
-## Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfallin&layout=compact&theme=default)
+- Junior Computer science major + mathematics minor at Santa Clara University
+- 2 years of collegiate calculus and linear algebra tutoring with SCU's [MLC](https://www.scu.edu/cas/mathematics-learning-center/).
+- 2 years of software development with [Endiatx](https://endiatx.com/)
+- Fullstack development, embedded programming, CI/CD management, cryptography and computer security, and more!
 
 ## Projects
 
-- Check out my university hackathon submissions on my [Devpost](https://devpost.com/nfallin) page!
-- Check out my other projects on my Github profile (you're already here)
+- Award-winning university hackathon submissions on [Devpost](https://devpost.com/nfallin).
+- Check out my other public projects on my Github profile. (you're already here)
 
 ## Contact me
 
 - Send me an [Email](mailto:nolanafallin@gmail.com)
 - Reach out to me on [LinkedIn](https://www.linkedin.com/in/nolan-fallin-79b5a6271/)
-
-Thanks for stopping by!<br><br>
-![Profile Views](https://komarev.com/ghpvc/?username=N-Fal&color=blue)
+- Feel free to reach out and ask questions or aquire my resume on either platform.

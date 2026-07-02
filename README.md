@@ -3,9 +3,9 @@
 ## About Me
 
 - Junior computer science major + mathematics minor at Santa Clara University
-- 2 years of collegiate calculus and linear algebra tutoring with SCU's [MLC](https://www.scu.edu/cas/mathematics-learning-center/).
-- 2 years of intern software development with [Endiatx](https://endiatx.com/)
-- Fullstack development, embedded programming, CI/CD management, cryptography and computer security, and more!
+- 3 years of collegiate calculus, discrete math, and linear algebra tutoring with SCU's [MLC](https://www.scu.edu/cas/mathematics-learning-center/).
+- 3 years of medical-grade software development with [Endiatx](https://endiatx.com/)
+- Fullstack development, software architecture design, embedded programming, CI/CD management, cryptography and computer security, and more!
 
 ## Projects
 

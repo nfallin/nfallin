@@ -7,7 +7,7 @@
 - 3 years of collegiate calculus, discrete math, and linear algebra tutoring with SCU's [MLC](https://www.scu.edu/cas/mathematics-learning-center/).
 - 3 years of medical device software and firmware development with [Endiatx](https://endiatx.com/)
 - TA for SCU's CSCI 180 Computer Security
-- Fullstack development, software architecture design, embedded programming, CI/CD management, cryptography, computer security, and more
+- Cryptography is fun
 
 ## Projects
 
